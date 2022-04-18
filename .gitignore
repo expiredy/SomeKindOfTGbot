@@ -1,0 +1,6 @@
+#ide thing and other creapy stuff
+.vscode
+.idea
+
+#ofcourse envirement files))))
+**/**.env
